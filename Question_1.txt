@@ -1,0 +1,2 @@
+git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included in the tag. Trees show the names and content of objects in a tree.Each commit has an identifier (they say "hash"), a unique set of characters. Using a hash, you can view all the changes made within a single commit hash firs 8 symbols
+
